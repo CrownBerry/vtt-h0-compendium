@@ -197,5 +197,6 @@
             "type": "Item"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/CrownBerry/vtt-h0-compendium/main/module.json"
+    "manifest": "https://raw.githubusercontent.com/CrownBerry/vtt-h0-compendium/main/module.json",
+    "download": "https://github.com/CrownBerry/vtt-h0-compendium/raw/main/humanity-zero-compendium.zip"
 }
