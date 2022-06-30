@@ -197,6 +197,5 @@
             "type": "Item"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "manifest": "https://raw.githubusercontent.com/CrownBerry/vtt-h0-compendium/main/module.json"
 }
