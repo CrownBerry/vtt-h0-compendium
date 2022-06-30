@@ -1,0 +1,202 @@
+{
+    "name": "humanity-zero-compendium",
+    "title": "Humanity Zero — Compendium",
+    "description": "A collection of moves for Humanity Zero (PbtA) system.",
+    "version": "1.0.0",
+    "author": "CrownBerry",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        {
+            "name": "dolgosrochnye-hody",
+            "label": "Долгосрочные ходы",
+            "path": "./packs/dolgosrochnye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "engineer--hody-augmentacij",
+            "label": "Engineer — ходы аугментаций",
+            "path": "./packs/engineer--hody-augmentacij.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "prodvinutye-hody",
+            "label": "Engineer — продвинутые ходы",
+            "path": "./packs/engineer--prodvinutye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "engineer--startovye-hody",
+            "label": "Engineer — стартовые ходы",
+            "path": "./packs/engineer--startovye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "hacker--hody-augmentacij",
+            "label": "Hacker — ходы аугментаций",
+            "path": "./packs/hacker--hody-augmentacij.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "hacker--prodvinutye-hody",
+            "label": "Hacker — продвинутые ходы",
+            "path": "./packs/hacker--prodvinutye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "hacker--startovye-hody",
+            "label": "Hacker — стартовые ходы",
+            "path": "./packs/hacker--startovye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "hody-dolga",
+            "label": "Ходы долга",
+            "path": "./packs/hody-dolga.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "hody-travmy",
+            "label": "Хооды травмы",
+            "path": "./packs/hody-travmy.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "i-doll--hody-augmentacij",
+            "label": "I-DOLL — ходы аугментаций",
+            "path": "./packs/i-doll--hody-augmentacij.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "i-doll--prodvinutye-hody",
+            "label": "I-DOLL — продвинутые ходы",
+            "path": "./packs/i-doll--prodvinutye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "i-doll--startovye-hody",
+            "label": "I-DOLL — стартовые ходы",
+            "path": "./packs/i-doll--startovye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "liquidator--hody-augmentacij",
+            "label": "Liquidator — ходы аугментаций",
+            "path": "./packs/liquidator--hody-augmentacij.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "liquidator--prodvinutye-hody",
+            "label": "Liquidator — продвинутые ходы",
+            "path": "./packs/liquidator--prodvinutye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "liquidator--startovye-hody",
+            "label": "Liquidator — стартовые ходы",
+            "path": "./packs/liquidator--startovye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "medtech--hody-augmentacij",
+            "label": "Medtech — ходы аугментаций",
+            "path": "./packs/medtech--hody-augmentacij.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "medtech--prodvinutye-hody",
+            "label": "Medtech — продвинутые ходы",
+            "path": "./packs/medtech--prodvinutye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "medtech--startovye-hody",
+            "label": "Medtech — стартовые ходы",
+            "path": "./packs/medtech--startovye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "osnovnye-hody",
+            "label": "Основные ходы",
+            "path": "./packs/osnovnye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "plejbuki",
+            "label": "Плэйбуки",
+            "path": "./packs/plejbuki.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "rasshirennye-hody",
+            "label": "Расширенные ходы",
+            "path": "./packs/rasshirennye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "urban-ninja--hody-augmentacij",
+            "label": "Urban Ninja — ходы аугментаций",
+            "path": "./packs/urban-ninja--hody-augmentacij.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "urban-ninja--prodvinutye-hody",
+            "label": "Urban Ninja — продвинутые ходы",
+            "path": "./packs/urban-ninja--prodvinutye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "urban-ninja--startovye-hody",
+            "label": "Urban Ninja — стартовые ходы",
+            "path": "./packs/urban-ninja--startovye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "yakuza--hody-augmentacij",
+            "label": "Yakuza — ходы аугментаций",
+            "path": "./packs/yakuza--hody-augmentacij.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "yakuza--prodvinutye-hody",
+            "label": "Yakuza — продвинутые ходы",
+            "path": "./packs/yakuza--prodvinutye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "yakuza--startovye-hody",
+            "label": "Yakuza — стартовые ходы",
+            "path": "./packs/yakuza--startovye-hody.db",
+            "entity": "Item",
+            "type": "Item"
+        }
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+}
