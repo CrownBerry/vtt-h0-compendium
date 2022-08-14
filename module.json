@@ -6,11 +6,6 @@
     "author": "CrownBerry",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "10",
-    "relationships": {
-      "systems": [
-        {"id": "pbta"}
-      ]
-    },
     "packs": [
         {
             "name": "dolgosrochnye-hody",
@@ -202,6 +197,11 @@
             "type": "Item"
         }
     ],
+    "relationships": {
+      "systems": [
+        {"id": "pbta"}
+      ]
+    },  
     "manifest": "https://raw.githubusercontent.com/CrownBerry/vtt-h0-compendium/main/module.json",
     "download": "https://github.com/CrownBerry/vtt-h0-compendium/raw/main/humanity-zero-compendium.zip"
 }
