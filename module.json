@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "author": "CrownBerry",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "9",
+    "compatibleCoreVersion": "10",
+    "relationships": {
+      "systems": [
+        {"id": "pf2e"}
+      ]
+    },
     "packs": [
         {
             "name": "dolgosrochnye-hody",
