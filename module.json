@@ -8,7 +8,7 @@
     "compatibleCoreVersion": "10",
     "relationships": {
       "systems": [
-        {"id": "pf2e"}
+        {"id": "pbta"}
       ]
     },
     "packs": [
